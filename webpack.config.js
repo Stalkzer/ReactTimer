@@ -26,6 +26,8 @@ module.exports = {
         alias: {
             Main:             path.resolve(__dirname, "app/components/Main"),
             Navigation:       path.resolve(__dirname, "app/components/Navigation"),
+            Timer:            path.resolve(__dirname, "app/components/Timer"),
+            Countdown:        path.resolve(__dirname, "app/components/Countdown"),
             applicationStyles:path.resolve(__dirname, "app/styles/app.scss")
 
         },
