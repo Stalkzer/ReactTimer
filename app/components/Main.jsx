@@ -4,13 +4,13 @@ var React = require("react"),
 var Main = (props) => {
     return (
         <div>
-            <div>
-                <div>
-                    <Navigation/>
+            <Navigation/>
+              <div className="row">
+                <div className="column small-centered medium-6 large-4">
                     <h3> Main.jsx Rendered</h3>
                     {props.children}
                 </div>
-            </div>
+              </div>
         </div>
     );
 }
