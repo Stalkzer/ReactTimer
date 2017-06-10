@@ -1,0 +1,16 @@
+.controls {
+    display: flex;
+    justify-content: center;
+
+    .button {
+        padding: .75rem 3rem;
+    }
+
+    .button:first-child{
+        margin-right: 1.5rem;
+    }
+}
+
+#custom-button {
+    box-shadow: inset 0 0 8px rgba(0,0,0,0.2);
+}
