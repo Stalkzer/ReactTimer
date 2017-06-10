@@ -29,6 +29,7 @@ module.exports = {
             Timer:            path.resolve(__dirname, "app/components/Timer"),
             Countdown:        path.resolve(__dirname, "app/components/Countdown"),
             CountdownForm:    path.resolve(__dirname, "app/components/CountdownForm"),
+            Controls:         path.resolve(__dirname, "app/components/Controls"),
             Clock:            path.resolve(__dirname, "app/components/Clock"),
             applicationStyles:path.resolve(__dirname, "app/styles/app.scss")
         },
