@@ -23,7 +23,7 @@ var Navigation = (props) => {
                     <div className="top-bar-right">
                         <ul className="menu">
                             <li className="menu-text">
-                                Created By <a href="https://github.com/Stalkzer" target="_blank">Mohamed Tm</a>
+                                Created By <a href="#" target="_blank">Mohamed Tm</a>
                             </li>
                         </ul>
                     </div>
