@@ -8,7 +8,7 @@ var React           = require("react"),
     Countdown       = require("Countdown");
 
     //Load foundation
-    require("style-loader!css-loader!foundation-sites/dist/foundation.min.css");
+    // require("style-loader!css-loader!foundation-sites/dist/foundation.min.css");
     $(document).foundation();
 
     // App css
